@@ -14,7 +14,7 @@
 
 ### Education
 - **Seoul National University of Science and Technology**  
-  B.S. in Electrical & Information Engineering (2019–2026 expected)
+  B.S. in Electrical & Information Engineering (2019–2026)
 
 ### Awards
 - **Silver Award (2nd Place), 2024 IDEC AI Semiconductor Contest**  
