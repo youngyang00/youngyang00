@@ -15,9 +15,9 @@
 ### Education
 - **Seoul National University of Science and Technology**  
   B.S. in Electrical & Information Engineering (2019–2026)
-
+  
 ### Awards
-- **Silver Prize (2nd Place), 2024 IDEC Creative Circuit Design Challenge**  
+- **Silver Prize (2nd Place), 2024 IDEC Creative Circuit Design Challenge** (Nov 8, 2024)  
   Reusable PE Array CNN Accelerator
 
 ### Skills
