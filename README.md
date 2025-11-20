@@ -3,7 +3,7 @@
 ### Current Position
 - **SoC Design Engineer, Mobilint**  
   RTL design, AXI-based SoC integration, and verification for NPU-oriented SoCs  
-  (2024 – Present)
+  (2025 – Present)
 
 ### Interests
 - SoC RTL design and microarchitecture  
