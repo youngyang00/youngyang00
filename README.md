@@ -30,9 +30,6 @@
 
 ---
 
-
----
-
 ### Skills
 - **HDL**: Verilog, SystemVerilog  
 - **Verification**: SV TB, assertions, coverage, debug  
