@@ -17,8 +17,8 @@
   B.S. in Electrical & Information Engineering (2019–2026)
 
 ### Awards
-- **Silver Award (2nd Place), 2024 IDEC AI Semiconductor Contest**  
-  CNN-based NPU accelerator (7nm ASIC, Yosys/OpenROAD)
+- **Silver Prize (2nd Place), 2024 IDEC Creative Circuit Design Challenge**  
+  Reusable PE Array CNN Accelerator
 
 ### Skills
 - **HDL**: Verilog, SystemVerilog  
