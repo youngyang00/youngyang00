@@ -17,8 +17,8 @@
   B.S. in Electrical & Information Engineering (2019–2026)
 
 ### Awards
-**Silver Prize (2nd Place), 2024 IDEC Creative Circuit Design Challenge**  
-Awarded for the project "Reusable PE Array CNN Accelerator"
+- **Silver Prize (2nd Place), 2024 IDEC Creative Circuit Design Challenge**  
+  Reusable PE Array CNN Accelerator
 
 ### Skills
 - **HDL**: Verilog, SystemVerilog  
