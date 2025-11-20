@@ -2,7 +2,6 @@
 
 ### Current Position
 - **SoC Design Engineer, Mobilint**  
-  RTL design, Verification
   (2025 – Present)
 
 ### Interests
