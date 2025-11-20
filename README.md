@@ -7,7 +7,7 @@
 ### Interests
 - SoC RTL design and microarchitecture  
 - RTL Design for AI/vision accelerators
-- AXI4 system design 
+- AXI4-based system design and integration 
 - UVM-based verification   
 - Hardware-efficient neural network optimization  
 
