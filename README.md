@@ -2,41 +2,30 @@
 
 ### Current Position
 - **SoC Design Engineer, Mobilint**  
-  RTL development, AXI-based SoC integration, and verification support for NPU architectures  
+  RTL design, AXI-based SoC integration, and verification for NPU-oriented SoCs  
   (2024 – Present)
 
----
-
 ### Interests
-- SoC RTL design and architecture
-- FPGA prototyping for AI/vision accelerators
-- AXI4 system (Lite / Stream / HP) interconnect design
-- Hardware-efficient neural network optimization and quantization
-- SystemVerilog verification (assertions, functional coverage)
-- High-speed digital design and embedded interfacing
-
----
+- SoC RTL design and microarchitecture  
+- FPGA prototyping for AI/vision accelerators  
+- AXI4 system design (Lite / Stream / HP)  
+- Hardware-efficient neural network optimization  
+- SystemVerilog-based verification  
+- High-speed digital and embedded interface design  
 
 ### Education
 - **Seoul National University of Science and Technology**  
-  B.S. in Electrical & Information Engineering (2019 – 2026 expected)
-
----
+  B.S. in Electrical & Information Engineering (2019–2026 expected)
 
 ### Awards
 - **Silver Award (2nd Place), 2024 IDEC AI Semiconductor Contest**  
-  CNN-based NPU Accelerator (7nm ASIC with Yosys/OpenROAD)
-- Additional academic recognitions for FPGA/SoC design
-
----
+  CNN-based NPU accelerator (7nm ASIC, Yosys/OpenROAD)
 
 ### Skills
 - **HDL**: Verilog, SystemVerilog  
-- **Verification**: SV TB, assertions, coverage, debug  
+- **Verification**: SystemVerilog TB, assertions, coverage  
 - **Tools**: Vivado, ModelSim/Questa, Verilator, OpenROAD, VCS  
-- **Languages**: C/C++, Python, Bash
-
----
+- **Languages**: C/C++, Python, Bash  
 
 ### Contact
 - **Email**: sjh0002000@gmail.com  
