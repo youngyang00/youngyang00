@@ -25,7 +25,7 @@
 ### Skills
 - **HDL**: Verilog, SystemVerilog  
 - **Verification**: UVM  
-- **Tools**: Vivado, OpenROAD, VCS,  
+- **Tools**: Vivado/Vitis, VCS  
 - **Languages**: C/C++, Python  
 
 ### Contact
