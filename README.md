@@ -17,8 +17,11 @@
   B.S. in Electrical & Information Engineering (2019–2026)
   
 ### Awards
+- **Gold Prize, 2025 Korea Undergraduate Semiconductor Design Contest (ISE)**  
+  Awarded for the project "FSRCNN-based Super Resolution Accelerator"
+
 - **Silver Prize (2nd Place), 2024 IDEC Creative Circuit Design Challenge** (Nov 8, 2024)  
-  Reusable PE Array CNN Accelerator
+  Awarded for the project "Reusable PE Array CNN Accelerator"
 
 ### Skills
 - **HDL**: Verilog, SystemVerilog  
