@@ -24,9 +24,9 @@
 
 ### Skills
 - **HDL**: Verilog, SystemVerilog  
-- **Verification**: SystemVerilog TB, assertions, coverage  
-- **Tools**: Vivado, ModelSim/Questa, Verilator, OpenROAD, VCS  
-- **Languages**: C/C++, Python, Bash  
+- **Verification**: UVM  
+- **Tools**: Vivado, OpenROAD, VCS,  
+- **Languages**: C/C++, Python  
 
 ### Contact
 - **Email**: sjh0002000@gmail.com  
