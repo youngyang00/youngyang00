@@ -6,11 +6,10 @@
 
 ### Interests
 - SoC RTL design and microarchitecture  
-- FPGA prototyping for AI/vision accelerators  
-- AXI4 system design (Lite / Stream / HP)  
+- RTL Design for AI/vision accelerators
+- AXI4 system design 
+- UVM-based verification   
 - Hardware-efficient neural network optimization  
-- SystemVerilog-based verification  
-- High-speed digital and embedded interface design  
 
 ### Education
 - **Seoul National University of Science and Technology**  
